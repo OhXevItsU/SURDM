@@ -11,3 +11,22 @@ Main channel: https://t.me/discordaio
 
 Takes 30 minutes to set everything up - see your business growing while just watching your terminals 📊
 
+
+
+## Main Features:
+- Mass DMer 
+- Joiner  
+- Online Scraper  
+- Offline Scraper 
+- Token checker  
+- Hypesquad Changer 
+- Username Changer 
+- Password Changer 
+- Bio Changer 
+- Guild Checker  
+- Proxy Checker
+- Friend Request sender
+- Quick Friender (MASS FR)
+- Token onliner
+
+## Cross platform (Windows, Linux, MacOS)
