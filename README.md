@@ -6,7 +6,7 @@
 
 Want to Mass DM on discord? Look no further, start promoting your stuff today with SurDM - extensive discord AIO with over 20 functions to make automating easier 📌
 
-Purchase now: @xev1l9
+Purchase now: @x3vil
 Main channel: https://t.me/discordaio
 
 Takes 30 minutes to set everything up - see your business growing while just watching your terminals 📊
